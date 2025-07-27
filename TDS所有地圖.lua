@@ -23,7 +23,7 @@ TDSMaps = {
 		CyberCity = { name = "Cyber City", Script = "" },
 		DesertedVillage = { name = "Deserted Village", Script = "" },
 		FarmLands = { name = "Farm Lands", Script = "" },
-		FourSeasons = { name = "Four Seasons", Script = "" },
+		FourSeasons = { name = "Four Seasons", Script = "製作中" },
 		Lighthaos = { name = "Lighthaos", Script = "" },
 		Marshlands = { name = "Marshlands", Script = "" },
 		MedievalTimes = { name = "Medieval Times", Script = "" },
