@@ -184,6 +184,14 @@ TDSMaps = {
 			Molten_Script = "",
 			Fallen_Script = "",
 		},
+		Iceville = {
+			Name = "Iceville",
+			Easy_Script = "",
+			Casual_Script = "",
+			Intermediate_Script = "",
+			Molten_Script = "",
+			Fallen_Script = "",
+		},
 		Lighthaos = {
 			Name = "Lighthaos",
 			Easy_Script = "",
