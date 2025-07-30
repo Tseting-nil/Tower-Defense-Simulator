@@ -6,7 +6,7 @@ local Script = {
     Time = "2025/07/30",
     Tower = {
         "Farm","Soldier","Medic","DJ Booth","ACC"},--ACC = Accelerator
-    Script = " "
+    Script = "https://raw.githubusercontent.com/Tseting-nil/Tower-Defense-Simulator/refs/heads/main/MapscriptURL/Four%20Seasons/Easy/Four_Seasons_1.lua"
     },
     {
     Name = "嘻嘻哈哈 - 2",
@@ -15,7 +15,7 @@ local Script = {
     Time = "2025/07/30",
     Tower = {
         "Farm","Soldier","Medic","DJ Booth","ACC"},--ACC = Accelerator
-    Script = " "
+    Script = "https://raw.githubusercontent.com/Tseting-nil/Tower-Defense-Simulator/refs/heads/main/MapscriptURL/Four%20Seasons/Easy/Four_Seasons_1.lua"
     },
 }
 return Script
