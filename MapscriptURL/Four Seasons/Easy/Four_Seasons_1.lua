@@ -1,4 +1,4 @@
-return function(TDS)
+local TDS = {}
 TDS:Skip(0.0)
 TDS:Place('Soldier', 43.038, 0.750, - 3.867, 2.0)
 TDS:Upgrade('Soldier', 1, 11.1)
@@ -67,4 +67,4 @@ TDS:Upgrade('DJ Booth', 1, 582.9)
 TDS:Upgrade('DJ Booth', 1, 594.4)
 TDS:Ability('Medic', 1, 'Cleansing', 596.5)
 TDS:Ability('Medic', 1, 'Cleansing', 616.5)
-end
+return TDS
