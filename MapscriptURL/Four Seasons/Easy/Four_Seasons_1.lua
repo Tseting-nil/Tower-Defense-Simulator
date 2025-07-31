@@ -1,3 +1,4 @@
+local TDS = {}
 TDS:Skip(0.0)
 TDS:Place('Soldier', 43.038, 0.750, - 3.867, 2.0)
 TDS:Upgrade('Soldier', 1, 11.1)
