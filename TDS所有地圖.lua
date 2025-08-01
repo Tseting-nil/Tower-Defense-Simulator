@@ -42,7 +42,7 @@ TDSMaps = {
 		},
 		GrassIsle = {
 			Name = "Grass Isle",
-			Easy_Script = "",
+			Easy_Script = "https://raw.githubusercontent.com/Tseting-nil/Tower-Defense-Simulator/refs/heads/main/MapscriptURL/Grass%20Isle/Easy/Script.lua",
 			Casual_Script = "",
 			Intermediate_Script = "",
 			Molten_Script = "",
